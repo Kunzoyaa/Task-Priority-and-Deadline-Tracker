@@ -1,0 +1,1 @@
+Use "npm start" to run both backend and frontend. Remember to create an account before trying to login. After adding a task, make sure to refresh the page. Sorting and filtering functions could not be implemented but searching function works fine.
